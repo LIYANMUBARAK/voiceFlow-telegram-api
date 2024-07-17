@@ -1,0 +1,148 @@
+[
+	{
+		"time": 1721160504077,
+		"type": "path",
+		"payload": {
+			"path": "choice:1"
+		}
+	},
+	{
+		"time": 1721160504092,
+		"type": "text",
+		"payload": {
+			"slate": {
+				"id": "ikbjz0me2",
+				"content": [
+					{
+						"children": [
+							{
+								"text": "Is the following information accurate?"
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"text": "First Name: "
+							},
+							{
+								"text": "Liyan"
+							},
+							{
+								"text": " "
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"text": "Email: "
+							},
+							{
+								"text": "Alright! Let's begin with your first name:"
+							},
+							{
+								"text": " "
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"text": "Mobile Number: "
+							},
+							{
+								"text": "9995365499"
+							},
+							{
+								"text": " "
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"text": "Message: "
+							},
+							{
+								"text": "test"
+							},
+							{
+								"text": " "
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"text": "Budget: "
+							},
+							{
+								"text": "less than £1000"
+							},
+							{
+								"text": " "
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"text": ""
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"text": "Would you like to submit this?"
+							}
+						]
+					}
+				],
+				"messageDelayMilliseconds": 1000
+			},
+			"message": "Is the following information accurate?\n\nFirst Name: Liyan \nEmail: Alright! Let's begin with your first name: \nMobile Number: 9995365499 \nMessage: test \nBudget: less than £1000 \n\nWould you like to submit this?",
+			"delay": 1000
+		}
+	},
+	{
+		"time": 1721160504092,
+		"type": "choice",
+		"payload": {
+			"buttons": [
+				{
+					"name": "Yes",
+					"request": {
+						"type": "path-d35nd3bs9",
+						"payload": {
+							"label": "Yes",
+							"actions": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "No",
+					"request": {
+						"type": "path-3j5nu3b2r",
+						"payload": {
+							"label": "No",
+							"actions": [
+
+							]
+						}
+					}
+				}
+			]
+		}
+	}
+]

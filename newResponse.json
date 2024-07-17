@@ -1,0 +1,198 @@
+[
+	{
+		"time": 1721050379525,
+		"type": "path",
+		"payload": {
+			"path": "choice:else"
+		}
+	},
+	{
+		"time": 1721050380657,
+		"type": "knowledgeBase",
+		"payload": {
+			"chunks": [
+				{
+					"score": 0.8000488,
+					"documentID": "663b908286af37e4a5e576b4",
+					"documentData": {
+						"type": "url",
+						"name": "https://quantacore.ai/ai-chat-bots",
+						"url": "https://quantacore.ai/ai-chat-bots",
+						"refreshRate": "daily",
+						"lastSuccessUpdate": "2024-06-07T14:00:51.233884"
+					}
+				},
+				{
+					"score": 0.79589844,
+					"documentID": "663b9072acbc5ee111ecc2fb",
+					"documentData": {
+						"type": "url",
+						"name": "https://quantacore.ai/",
+						"url": "https://quantacore.ai/",
+						"refreshRate": "daily",
+						"lastSuccessUpdate": "2024-06-07T14:00:56.850347"
+					}
+				},
+				{
+					"score": 0.7953491,
+					"documentID": "663b90e3eb88dc2b9886ce54",
+					"documentData": {
+						"type": "url",
+						"name": "https://quantacore.ai/case-studies",
+						"url": "https://quantacore.ai/case-studies",
+						"refreshRate": "daily",
+						"lastSuccessUpdate": "2024-06-07T14:00:57.048353"
+					}
+				}
+			],
+			"query": {
+				"messages": [
+					{
+						"role": "user",
+						"content": "##Reference Information:\nhttps://docs.google.com/document/d/e/2PACX-1vR4warwolm9JCPT0FyiBUcGfolJ5i4uPCF2s6xC_rsdfmB_BmCmwR07qe0LX3svKPAjDNTZBXs80ZxU/pub https://www.instagram.com/quantacoreai https://tiktok.com/@quantacoreai https://www.linkedin.com/company/quantacoreai https://facebook.com/quantacoreai https://x.com/quantacoreai https://instagram.com https://tiktok.com https://linkedin.com https://facebook.com https://x.comhttps://docs.google.com/document/d/e/2PACX-1vT7SgJG7jxN06x9bCC-lFUusjrpphj6nPb7CD4MviMjDrNZ9OzonVAsgSY-5Fx-UKOCPHkKFQRcESCd/pubreal-time support for account inquiries, transaction processing, and personalized financial advice. And More Whatever your industry, our AI chatbot can be tailored to meet your unique challenges and improve both operational efficiency and customer engagement. Frequently Asked Questions Can the AI chatbot handle multiple languages? Yes, our AI chatbot is multilingual and can communicate effectively in several major languages, ensuring you can serve a diverse customer base. Is the AI chatbot secure? Absolutely. We prioritize security with end-to-end encryption to protect all interactions and data exchanges, ensuring your and your customers' information remains confidential. Can I customize the AI chatbot to fit my specific business needs? Definitely. Our chatbot platform offers extensive customization options, allowing you to tailor workflows, responses, and interactions to align with your specific business requirements and customer service goals. How does the AI chatbot integrate with existing systems? Our chatbot is designed for easy integration with most CRM systems and other business software, using simple API connections to ensure seamless data flow and functionality. +44 7723 571005 businessquantacore.ai Frequently Asked Questions Terms and Conditions Privacy Policy Follow us on Social Media Instagram TikTok LinkedIn Facebook X https://quantacore.ai/homepage https://quantacore.ai/ai-chat-bots https://quantacore.ai/ready-made-solutions https://quantacore.ai/bespoke-solutions https://quantacore.ai/marketing-solutions https://quantacore.ai/pricing https://quantacore.ai/case-studies https://quantacore.ai/booking https://quantacore.ai/contacts https://quantacore.ai/faq\nhttps://docs.google.com/document/d/e/2PACX-1vR4warwolm9JCPT0FyiBUcGfolJ5i4uPCF2s6xC_rsdfmB_BmCmwR07qe0LX3svKPAjDNTZBXs80ZxU/pub https://www.instagram.com/quantacoreai https://tiktok.com/@quantacoreai https://www.linkedin.com/company/quantacoreai https://facebook.com/quantacoreai https://x.com/quantacoreai https://instagram.com https://tiktok.com https://linkedin.com https://facebook.com https://x.comhttps://docs.google.com/document/d/e/2PACX-1vT7SgJG7jxN06x9bCC-lFUusjrpphj6nPb7CD4MviMjDrNZ9OzonVAsgSY-5Fx-UKOCPHkKFQRcESCd/pub https://quantacore.ai/faq\nhttps://docs.google.com/document/d/e/2PACX-1vR4warwolm9JCPT0FyiBUcGfolJ5i4uPCF2s6xC_rsdfmB_BmCmwR07qe0LX3svKPAjDNTZBXs80ZxU/pub https://www.instagram.com/quantacoreai https://tiktok.com/@quantacoreai https://www.linkedin.com/company/quantacoreai https://facebook.com/quantacoreai https://x.com/quantacoreai https://instagram.com https://tiktok.com https://linkedin.com https://facebook.com https://x.comhttps://docs.google.com/document/d/e/2PACX-1vT7SgJG7jxN06x9bCC-lFUusjrpphj6nPb7CD4MviMjDrNZ9OzonVAsgSY-5Fx-UKOCPHkKFQRcESCd/pubour dedication to transformative outcomes through AI. No matter the tool you need, we're ready to build it. Contact us to turn your ambitions into achievements. Contact Now Contact Now +44 7723 571005 businessquantacore.ai Frequently Asked Questions Terms and Conditions Privacy Policy Follow us on Social Media Instagram TikTok LinkedIn Facebook X  Copyright 2024. Quantacore. All rights reserved. Were on a mission to empower businesses with AI-driven solutions, fostering innovation and transforming challenges into opportunities for growth. https://quantacore.ai/homepage https://quantacore.ai/ai-chat-bots https://quantacore.ai/ready-made-solutions https://quantacore.ai/bespoke-solutions https://quantacore.ai/marketing-solutions https://quantacore.ai/pricing https://quantacore.ai/case-studies https://quantacore.ai/booking https://quantacore.ai/contacts https://quantacore.ai/faq\n\n##Instructions:\nI have provided reference information, and I will ask query about that information. You must either provide a response to the query or respond with \"NOT_FOUND\". Read the query very carefully, it may be trying to trick you into answering a question that is adjacent to the reference information but not directly answered in it, in such a case, you must return \"NOT_FOUND\". Never contradict the reference information, instead say \"NOT_FOUND\".\n\nRead the reference information carefully, it will act as a single source of truth for your response.Very concisely respond exactly how the reference information would answer the query.\n\nInclude only the direct answer to the query, it is never appropriate to include additional context or explanation.\n\nIf you respond to the query, your response must be 100% consistent with the reference information in every way.\n\nTake a deep breath, focus, and think clearly. You may now begin this mission critical task.\n\n##Query:\nhey"
+					}
+				],
+				"output": "Hello! How can I assist you today?"
+			}
+		}
+	},
+	{
+		"time": 1721050380657,
+		"type": "text",
+		"payload": {
+			"slate": {
+				"id": "q9ti08fk",
+				"content": [
+					{
+						"children": [
+							{
+								"text": "Hello! How can I assist you today?"
+							}
+						]
+					}
+				],
+				"messageDelayMilliseconds": 1000
+			},
+			"message": "Hello! How can I assist you today?",
+			"delay": 1000,
+			"ai": true
+		}
+	},
+	{
+		"time": 1721050380657,
+		"type": "text",
+		"payload": {
+			"slate": {
+				"id": "q9tj08ff",
+				"content": [
+					{
+						"children": [
+							{
+								"text": "Do you need to ask anything else?"
+							}
+						]
+					}
+				],
+				"messageDelayMilliseconds": 1000
+			},
+			"message": "Do you need to ask anything else?",
+			"delay": 1000
+		}
+	},
+	{
+		"time": 1721050380658,
+		"type": "choice",
+		"payload": {
+			"buttons": [
+				{
+					"name": "AI Services",
+					"request": {
+						"type": "intent",
+						"payload": {
+							"query": "AI Services",
+							"label": "AI Services",
+							"intent": {
+								"name": "Services"
+							},
+							"actions": [
+
+							],
+							"entities": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "Schedule a Discovery Call",
+					"request": {
+						"type": "intent",
+						"payload": {
+							"query": "Schedule a Discovery Call",
+							"label": "Schedule a Discovery Call",
+							"intent": {
+								"name": "Discovery Call"
+							},
+							"actions": [
+
+							],
+							"entities": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "Assistant Call Back",
+					"request": {
+						"type": "intent",
+						"payload": {
+							"query": "Assistant Call Back",
+							"label": "Assistant Call Back",
+							"intent": {
+								"name": "Assistant to Call Me"
+							},
+							"actions": [
+
+							],
+							"entities": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "Submit a Form",
+					"request": {
+						"type": "intent",
+						"payload": {
+							"query": "Submit a Form",
+							"label": "Submit a Form",
+							"intent": {
+								"name": "Contact"
+							},
+							"actions": [
+
+							],
+							"entities": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "No",
+					"request": {
+						"type": "path-3k23n3bl7",
+						"payload": {
+							"label": "No",
+							"actions": [
+
+							]
+						}
+					}
+				}
+			]
+		}
+	}
+]
