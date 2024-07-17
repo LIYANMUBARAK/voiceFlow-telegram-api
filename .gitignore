@@ -1,1 +1,11 @@
 .env
+package-lock.json
+node_modules/
+afterYes.json
+latestrespomse.json
+newResponse.json
+newResponse1.json
+
+response.json
+responsenew.json
+yesOrNo.json
