@@ -35,7 +35,6 @@ async function interact(chatId, request) {
           await bot.sendMessage(chatId, "Conversation is over");
           break;
         case "choice":
-          console.log("choice reached");
           const buttons = trace.payload.buttons.map((button) => {
             if (
               button.request.payload.actions &&
@@ -59,6 +58,7 @@ async function interact(chatId, request) {
 
             // Handle intent type buttons
             else if (button.request.type === "intent") {
+              
               console.log("reached intent");
               console.log("button name:" + button);
               return [
@@ -101,22 +101,6 @@ async function interact(chatId, request) {
               });
             }
             break;
-
-
-        // case "path":
-        //   if (trace.payload.path === "reprompt") {
-        //     await bot.sendMessage(chatId, "Please provide more information:");
-        //   }else if(trace.payload.path==="capture"){
-        //     request = {
-        //       type:"path",
-        //       payload:{
-        //         path:"capture"
-              
-        //       }
-        //     }
-        //     await interact(chatId, request);
-        //   }
-        //   break;
       }
     }
   } catch (error) {
@@ -124,17 +108,12 @@ async function interact(chatId, request) {
   }
 }
 
+
 bot.on("callback_query", async (callbackQuery) => {
   
-  console.log("reached callback");
   
   const chatId = callbackQuery.message.chat.id;
   const action = callbackQuery.data;
-//   // console.log(callbackQuery)
-//   // // const callbackquer=JSON.stringify(callbackQuery)
-//   // console.log(callbackQuery.message.reply_markup.inline_keyboard.find((item)=>item.name=callbackQuery.data))
-//   // console.log(callbackQuery.message.reply_markup.inline_keyboard[0][0])
-// // console.log(JSON.stringify(callbackquer))
   let request;
 
   if (action === 'No') {
@@ -147,7 +126,7 @@ bot.on("callback_query", async (callbackQuery) => {
     };
   }
   else if(action.startsWith('path')){
-    console.log("reachedddddddddddd")
+    console.log("reached call back function :path")
   
     request = {
       type:action,
@@ -158,16 +137,17 @@ bot.on("callback_query", async (callbackQuery) => {
     }
   } 
   else {
+    console.log("reached call back intent")
     request = {
       type: "intent",
       payload: {
-        query: action, // Adjust to pass relevant data from the button action
-        label: action, // Optional: Provide a label if needed
+        query: action, 
+        label: action, 
         intent: {
-          name: action, // Adjust based on your Voiceflow intent structure
+          name: action, 
         },
-        actions: [], // Adjust based on any additional actions needed
-        entities: [], // Adjust based on any entities needed
+        actions: [], 
+        entities: [],
       },
     };
   }
@@ -188,6 +168,7 @@ bot.onText(/\/start/, async (msg) => {
 
 // Handle any text messages
 bot.on("message", async (msg) => {
+  if(msg.text==="/start") return
   const chatId = msg.chat.id;
   if (msg.text) {
     await interact(chatId, {
