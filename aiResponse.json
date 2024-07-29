@@ -1,0 +1,224 @@
+[
+	{
+		"time": 1722009996434,
+		"type": "path",
+		"payload": {
+			"path": "choice:1"
+		}
+	},
+	{
+		"time": 1722009996434,
+		"type": "text",
+		"payload": {
+			"slate": {
+				"id": "021r5w0al6",
+				"content": [
+					{
+						"children": [
+							{
+								"text": "Check out the services we offer:"
+							}
+						]
+					}
+				],
+				"messageDelayMilliseconds": 1000
+			},
+			"message": "Check out the services we offer:",
+			"delay": 1000
+		}
+	},
+	{
+		"time": 1722009996435,
+		"type": "carousel",
+		"payload": {
+			"layout": "Carousel",
+			"cards": [
+				{
+					"id": "561s53bmo",
+					"title": "AI Chatbots",
+					"description": {
+						"slate": [
+							{
+								"children": [
+									{
+										"text": "Chatbots are designed to provide personalised support based on your organisations specific requirements. They can integrate with your tech stack and effectively automate your workflows."
+									}
+								]
+							}
+						],
+						"text": "Chatbots are designed to provide personalised support based on your organisations specific requirements. They can integrate with your tech stack and effectively automate your workflows."
+					},
+					"imageUrl": "https://cm4-production-assets.s3.amazonaws.com/1714123993357-ai-chatbot.png",
+					"buttons": [
+						{
+							"name": "Learn More",
+							"request": {
+								"type": "learn-more-emkpcnjb",
+								"payload": {
+									"label": "Learn More",
+									"actions": [
+										{
+											"type": "open_url",
+											"payload": {
+												"url": "https://www.quantabots.ai/products"
+											}
+										}
+									]
+								}
+							}
+						}
+					]
+				},
+				{
+					"id": "ke1yq3bo9",
+					"title": "AI Voicebots",
+					"description": {
+						"slate": [
+							{
+								"children": [
+									{
+										"text": "Automation is a game changing force in today's business landscape. It doesn't replace human effort but enhances it by creating more efficient, productive, and satisfying work environments."
+									}
+								]
+							}
+						],
+						"text": "Automation is a game changing force in today's business landscape. It doesn't replace human effort but enhances it by creating more efficient, productive, and satisfying work environments."
+					},
+					"imageUrl": "https://cm4-production-assets.s3.amazonaws.com/1714124194229-workflows.png",
+					"buttons": [
+						{
+							"name": "Learn More",
+							"request": {
+								"type": "learn-more-mmjemlpa",
+								"payload": {
+									"label": "Learn More",
+									"actions": [
+										{
+											"type": "open_url",
+											"payload": {
+												"url": "https://www.quantabots.ai/products"
+											}
+										}
+									]
+								}
+							}
+						}
+					]
+				},
+				{
+					"id": "1z22m3bmo",
+					"title": "Automations",
+					"description": {
+						"slate": [
+							{
+								"children": [
+									{
+										"text": "Embrace the future in business through our AI Consulting service. We work closey with you to shape an AI strategy that fits business like a glove.  We're with you every step of the way, from the first planning phase to on-going fine-tuning, ensuring a smooth and successful AI journey."
+									}
+								]
+							}
+						],
+						"text": "Embrace the future in business through our AI Consulting service. We work closey with you to shape an AI strategy that fits business like a glove.  We're with you every step of the way, from the first planning phase to on-going fine-tuning, ensuring a smooth and successful AI journey."
+					},
+					"imageUrl": "https://cm4-production-assets.s3.amazonaws.com/1714124389822-consulting.png",
+					"buttons": [
+						{
+							"name": "Learn More",
+							"request": {
+								"type": "learn-more-fanbiolk",
+								"payload": {
+									"label": "Learn More",
+									"actions": [
+										{
+											"type": "open_url",
+											"payload": {
+												"url": "https://www.quantabots.ai/products"
+											}
+										}
+									]
+								}
+							}
+						}
+					]
+				}
+			]
+		}
+	},
+	{
+		"time": 1722009996435,
+		"type": "choice",
+		"payload": {
+			"buttons": [
+				{
+					"name": "Schedule a Discovery Call",
+					"request": {
+						"type": "intent",
+						"payload": {
+							"query": "Schedule a Discovery Call",
+							"label": "Schedule a Discovery Call",
+							"intent": {
+								"name": "Discovery Call"
+							},
+							"actions": [
+
+							],
+							"entities": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "Assistant Call Back",
+					"request": {
+						"type": "intent",
+						"payload": {
+							"query": "Assistant Call Back",
+							"label": "Assistant Call Back",
+							"intent": {
+								"name": "Assistant to Call Me"
+							},
+							"actions": [
+
+							],
+							"entities": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "Submit a Form",
+					"request": {
+						"type": "intent",
+						"payload": {
+							"query": "Submit a Form",
+							"label": "Submit a Form",
+							"intent": {
+								"name": "Contact"
+							},
+							"actions": [
+
+							],
+							"entities": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "Go back to main menu",
+					"request": {
+						"type": "path-xk15q3enz",
+						"payload": {
+							"label": "Go back to main menu",
+							"actions": [
+
+							]
+						}
+					}
+				}
+			]
+		}
+	}
+]

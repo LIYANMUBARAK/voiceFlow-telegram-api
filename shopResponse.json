@@ -1,0 +1,328 @@
+[
+	{
+		"time": 1722008919258,
+		"type": "path",
+		"payload": {
+			"path": "choice:1"
+		}
+	},
+	{
+		"time": 1722008919259,
+		"type": "text",
+		"payload": {
+			"slate": {
+				"id": "ujgac0f90",
+				"content": [
+					{
+						"children": [
+							{
+								"text": "Here are our best selling makeup options 💄"
+							}
+						]
+					}
+				],
+				"messageDelayMilliseconds": 1000
+			},
+			"message": "Here are our best selling makeup options 💄",
+			"delay": 1000
+		}
+	},
+	{
+		"time": 1722008919259,
+		"type": "text",
+		"payload": {
+			"slate": {
+				"id": "ujgad0fu4",
+				"content": [
+					{
+						"children": [
+							{
+								"text": "✅  Cruelty-free"
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"text": "✅  Vegan"
+							}
+						]
+					},
+					{
+						"children": [
+							{
+								"text": "✅  High quality"
+							}
+						]
+					}
+				],
+				"messageDelayMilliseconds": 1000
+			},
+			"message": "✅  Cruelty-free\n✅  Vegan\n✅  High quality",
+			"delay": 1000
+		}
+	},
+	{
+		"time": 1722008919260,
+		"type": "carousel",
+		"payload": {
+			"layout": "Carousel",
+			"cards": [
+				{
+					"id": "814x3pek",
+					"title": "Mini Soft Pinch Liquid Blush",
+					"description": {
+						"slate": [
+							{
+								"children": [
+									{
+										"text": "A lip mask with a plush, pudding-like texture that coats lips with supercharged moisture for a smoother, firmer and plumper-looking pout in 1 week."
+									}
+								]
+							}
+						],
+						"text": "A lip mask with a plush, pudding-like texture that coats lips with supercharged moisture for a smoother, firmer and plumper-looking pout in 1 week."
+					},
+					"imageUrl": "https://cm4-production-assets.s3.amazonaws.com/1721044235223-screenshot-2024-07-15-171928.png",
+					"buttons": [
+						{
+							"name": "Show me this one",
+							"request": {
+								"type": "show-me-this-one-iefpkjkg",
+								"payload": {
+									"label": "Show me this one",
+									"actions": [
+
+									]
+								}
+							}
+						},
+						{
+							"name": "Random Products",
+							"request": {
+								"type": "random-products-jefjmkoj",
+								"payload": {
+									"label": "Random Products",
+									"actions": [
+
+									]
+								}
+							}
+						},
+						{
+							"name": "Similar Products",
+							"request": {
+								"type": "similar-products-nekeeecp",
+								"payload": {
+									"label": "Similar Products",
+									"actions": [
+
+									]
+								}
+							}
+						}
+					]
+				},
+				{
+					"id": "so7i3p7h",
+					"title": "BeachPlease Luminous Tinted Lip + Cheek Balm",
+					"description": {
+						"slate": [
+							{
+								"children": [
+									{
+										"text": "A set that includes two full-size bestsellers, the BeachPlease Cream Blush and ShineOn Milky Lip Jelly Gloss."
+									}
+								]
+							}
+						],
+						"text": "A set that includes two full-size bestsellers, the BeachPlease Cream Blush and ShineOn Milky Lip Jelly Gloss."
+					},
+					"imageUrl": "https://cdn.shopify.com/s/files/1/0270/5601/3415/products/Golden-Hour-Sand-BG-1024_1024x1024.png?v=1588929423",
+					"buttons": [
+						{
+							"name": "Show me this one",
+							"request": {
+								"type": "show-me-this-one-mpakidnh",
+								"payload": {
+									"label": "Show me this one",
+									"actions": [
+
+									]
+								}
+							}
+						},
+						{
+							"name": "Random Products",
+							"request": {
+								"type": "random-products-lkhnpkbg",
+								"payload": {
+									"label": "Random Products",
+									"actions": [
+
+									]
+								}
+							}
+						},
+						{
+							"name": "Similar Products",
+							"request": {
+								"type": "similar-products-opeoingf",
+								"payload": {
+									"label": "Similar Products",
+									"actions": [
+
+									]
+								}
+							}
+						}
+					]
+				},
+				{
+					"id": "ad5h3pqh",
+					"title": "Lip Power Satin Long Lasting Lipstick",
+					"description": {
+						"slate": [
+							{
+								"children": [
+									{
+										"text": "A long-lasting lipstick with rich, balmy smooth texture and satin finish. Shades range from soft nudes to vivid colors and provide all day comfort."
+									}
+								]
+							}
+						],
+						"text": "A long-lasting lipstick with rich, balmy smooth texture and satin finish. Shades range from soft nudes to vivid colors and provide all day comfort."
+					},
+					"imageUrl": "https://www.armanibeauty.com.my/assets/product-images/3614273725835-1657185578-km.jpg",
+					"buttons": [
+						{
+							"name": "Show me this one",
+							"request": {
+								"type": "show-me-this-one-cnmmlddm",
+								"payload": {
+									"label": "Show me this one",
+									"actions": [
+
+									]
+								}
+							}
+						},
+						{
+							"name": "Random Products",
+							"request": {
+								"type": "random-products-femiohfh",
+								"payload": {
+									"label": "Random Products",
+									"actions": [
+
+									]
+								}
+							}
+						},
+						{
+							"name": "Similar Products",
+							"request": {
+								"type": "similar-products-fbkoopbi",
+								"payload": {
+									"label": "Similar Products",
+									"actions": [
+
+									]
+								}
+							}
+						}
+					]
+				}
+			]
+		}
+	},
+	{
+		"time": 1722008919260,
+		"type": "text",
+		"payload": {
+			"slate": {
+				"id": "ukgae0fez",
+				"content": [
+					{
+						"children": [
+							{
+								"text": "What else do you want to see?"
+							}
+						]
+					}
+				],
+				"messageDelayMilliseconds": 1000
+			},
+			"message": "What else do you want to see?",
+			"delay": 1000
+		}
+	},
+	{
+		"time": 1722008919261,
+		"type": "choice",
+		"payload": {
+			"buttons": [
+				{
+					"name": "Makeup",
+					"request": {
+						"type": "path-di7q389u",
+						"payload": {
+							"label": "Makeup",
+							"actions": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "Skincare",
+					"request": {
+						"type": "path-js91384d",
+						"payload": {
+							"label": "Skincare",
+							"actions": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "Hair",
+					"request": {
+						"type": "path-ck8q3819",
+						"payload": {
+							"label": "Hair",
+							"actions": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "Fragrance",
+					"request": {
+						"type": "path-b2b1382v",
+						"payload": {
+							"label": "Fragrance",
+							"actions": [
+
+							]
+						}
+					}
+				},
+				{
+					"name": "Go Back to Intro",
+					"request": {
+						"type": "path-6i2ys3eko",
+						"payload": {
+							"label": "Go Back to Intro",
+							"actions": [
+
+							]
+						}
+					}
+				}
+			]
+		}
+	}
+]

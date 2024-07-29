@@ -1,0 +1,68 @@
+[
+	{
+		"time": 1722242187617,
+		"type": "path",
+		"payload": {
+			"path": "jump"
+		}
+	},
+	{
+		"time": 1722242187645,
+		"type": "path",
+		"payload": {
+			"path": "jump"
+		}
+	},
+	{
+		"time": 1722242187650,
+		"type": "cardV2",
+		"payload": {
+			"imageUrl": "https://cdn.shopify.com/s/files/1/0270/5601/3415/products/Golden-Hour-Sand-BG-1024_1024x1024.png?v=1588929423",
+			"description": {
+				"slate": [
+					{
+						"children": [
+							{
+								"text": ""
+							},
+							{
+								"text": "A set that includes two full-size bestsellers, the BeachPlease Cream Blush and ShineOn Milky Lip Jelly Gloss."
+							},
+							{
+								"text": " "
+							}
+						]
+					}
+				],
+				"text": "A set that includes two full-size bestsellers, the BeachPlease Cream Blush and ShineOn Milky Lip Jelly Gloss."
+			},
+			"buttons": [
+				{
+					"name": "Buy Now ",
+					"request": {
+						"type": "buy-now-mmbamecj",
+						"payload": {
+							"actions": [
+
+							],
+							"label": "Buy Now "
+						}
+					}
+				},
+				{
+					"name": "Go Back ",
+					"request": {
+						"type": "go-back-epignfmc",
+						"payload": {
+							"actions": [
+
+							],
+							"label": "Go Back "
+						}
+					}
+				}
+			],
+			"title": "BeachPlease Luminous Tinted Lip + Cheek Balm"
+		}
+	}
+]
